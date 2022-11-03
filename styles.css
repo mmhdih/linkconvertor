@@ -87,3 +87,8 @@ body {
 #textField1:placeholder-shown {
   text-align: center;
 }
+
+.message{
+  font-size: 12px;
+  margin: 15px;
+}
