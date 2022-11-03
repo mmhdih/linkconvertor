@@ -3,7 +3,7 @@ var newP = document.getElementById("newP");
 function changeValue() {
     textField = document.getElementById("textField1");
     var innerValue = textField.value;
-    var newValue = innerValue.replace("5.75.130.20", "88.198.122.138").replace("116.202.3.144", "88.198.122.138");
+    var newValue = innerValue.replace("5.75.130.20", "95.217.245.72").replace("116.202.3.144", "95.217.245.72").replace("88.198.122.138", "95.217.245.72");
     newP.innerHTML = newValue;
     newP.value = newValue;
 
