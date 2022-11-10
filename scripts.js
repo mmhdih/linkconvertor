@@ -8,7 +8,7 @@ function changeValue() {
     newP.innerHTML = newValue;
     newP.value = newValue;
 
-
+}
 
 function cpLink() {
     newP.focus();
