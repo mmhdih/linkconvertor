@@ -8,15 +8,6 @@ function changeValue() {
     newP.innerHTML = newValue;
     newP.value = newValue;
 
-}
-function changeValueIr() {
-    textField = document.getElementById("textField1");
-    var innerValue = textField.value;
-    var newValue = innerValue.replace("103.215.221.228", "65.108.48.150");
-    newP.innerHTML = newValue;
-    newP.value = newValue;
-}c
-
 
 
 function cpLink() {
